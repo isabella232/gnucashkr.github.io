@@ -2,18 +2,37 @@
 ---
 ## 일반용어 리스트
 
+- Closing: 닫기
+- Column: 열
+- Custom: 사용자정의
 - Date: 날짜
 - Description: 상세
 - Detail: 세부정보
+- Fancy: 고급 (세부적으로 조정할 수 있는 옵션이 많다는 의미)
+- Field: 필드
+- File: 파일
+- Find: 찾기 (때때로 검색)
 - Format: 형식
 - Geometry: 위치/크기
+- Identification: 신원
+- Load: 읽기
+- Marker: 마커
 - Memo: 메모
 - Notes: 주석
+- Options: 옵션
 - Order: 정렬
-- Placeholder:
+- Placeholder: ??
 - Preferences: 환경설정
+- Range: 범위
+- Reload: 다시읽기
+- Row: 행
+- Save: 저장(하기)
+- Source: 출처
 - Subtotal: 부분합계
 - Template: 서식
+- Template: 서식
+- Time period: 시한
+- Tot: 총
 - Total: 전체합
 - Type: 유형
-- Template: 서식
+- Unit: 단위

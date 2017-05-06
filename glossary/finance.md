@@ -1,9 +1,11 @@
 ---
 ---
 ## GnuCash 개념 및 회계용어 리스트
+
 - Account: 계정
 - Accounts: 계정목록
 - Action: 작업
+- Active Account: 대변 (T계정에서의 왼쪽계정)
 - Ask: 매도가
 - Asset: 자산
 - Balance Sheet: 재무상태표
@@ -21,63 +23,80 @@
 - Close: 닫기
 - Commodity: 상품
 - Credit Note: 신용전표
-- Credit Transfer: ??
+- Credit Transfer: 계좌이체
 - Credit: 차변
 - Currency: 화폐
 - Customer: 고객
+- Cutoff Day: 마감기한
 - Debit: 대변
 - Deposit: 입금
+- Discount Days: 할인적용기한
+- Due Date: 만기일
+- Due Days: 기한
 - Employee: 종업원
 - Ending Balance: 기말잔고
 - Equity: 자기자본
 - Exchange Rate: 환율
 - Expense: 비용
 - Export: 내보내기
-- Fraction: ??
+- Fraction: 소수점자리수
 - Future Price: 미래가
+- Imbalance: 불균형
 - Import: 가져오기
 - Income Statement: 손익계산서
 - Income: 소득
 - Interest: 이자
 - Invoice: 청구서 (고객 > 나에게 지급될 돈의 명세)
-- Job: ??
+- Job: 묶음 (청구서나 영수증을 고객/거래처별로 묶는 작업)
 - Journal: 분개장
 - Journal: 분개장
 - Ledger: 원장
 - Ledger: 원장
 - Liability: 부채
 - Loan: 대출
-- Lot: 품목(??)
+- Loss: 손실
+- Lot: 품목(?)
+- Markup: 가산율
 - Merge: 병합
 - Mortgage: 융자
 - Mutual Fund: 투자신탁
 - National Currency: 발행화폐
 - Opening Balance: 기초잔고
-- Owner:
+- Owner: 귀속인
 - Parent Account: 부모계정
+- Passive Account: 차변 (T계정에서의 오른쪽계정)
+- Payee: 수취인
+- Payer: 지급인
 - Payment: 지불
-- Payment: 지불
-- Post:
+- Portfolio: 포트폴리오
+- Post: 발행 (영수증이나 청구서)
 - Present Price: 현재가
 - Price: 가격
+- Principal: 원금
+- Profit: 이익
+- Proximo: 다음달
+- Quotes: 시세
 - Rebalance: 재결산
 - Reconcile: 마감
+- Recordkeeping: 기장
 - Register: 입력
 - Retained Earnings: 이익잉여금
 - Retained Losses: 결손금
 - Sales: 판매량
 - Saving: 예금
-- Scrub: ??
+- Scrub: 상쇄(?)
 - Security: 증권 ('상품의 단위’의 의미로 사용될 때는 ‘상품단위’)
 - Shares: 주식수
 - Split(동사): 나누기(거래의 경우), 분할(주식의 경우)
 - Split(명사): 부분거래
 - Stock: 주식
 - Subaccount: 하위계정
+- Symbol: 기호
 - Tax Table: 세율표
 - Tax: 세금
 - Trading: 매매
 - Transaction: 거래
+- Trial Balance: 시산표
 - Value: 값 (때때로는 가치)
 - Vendor: 거래처
 - Voucher: 내역서
