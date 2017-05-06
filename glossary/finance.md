@@ -1,0 +1,84 @@
+---
+---
+## GnuCash 개념 및 회계용어 리스트
+- Account: 계정
+- Accounts: 계정목록
+- Action: 작업
+- Ask: 매도가
+- Asset: 자산
+- Balance Sheet: 재무상태표
+- Balance(동사): 결산
+- Balance(명사): 잔고
+- Bid: 매수가
+- Bill: 영수증 (나 > 거래처로 지급될 돈의 명세)
+- Billing term: 지급 조건
+- Book: 장부
+- Cash: 현금
+- Check(동사): 점검
+- Check(명사): 수표
+- Checking: 자유입출금
+- Clear: 확인
+- Close: 닫기
+- Commodity: 상품
+- Credit Note: 신용전표
+- Credit Transfer: ??
+- Credit: 차변
+- Currency: 화폐
+- Customer: 고객
+- Debit: 대변
+- Deposit: 입금
+- Employee: 종업원
+- Ending Balance: 기말잔고
+- Equity: 자기자본
+- Exchange Rate: 환율
+- Expense: 비용
+- Export: 내보내기
+- Fraction: ??
+- Future Price: 미래가
+- Import: 가져오기
+- Income Statement: 손익계산서
+- Income: 소득
+- Interest: 이자
+- Invoice: 청구서 (고객 > 나에게 지급될 돈의 명세)
+- Job: ??
+- Journal: 분개장
+- Journal: 분개장
+- Ledger: 원장
+- Ledger: 원장
+- Liability: 부채
+- Loan: 대출
+- Lot: 품목(??)
+- Merge: 병합
+- Mortgage: 융자
+- Mutual Fund: 투자신탁
+- National Currency: 발행화폐
+- Opening Balance: 기초잔고
+- Owner:
+- Parent Account: 부모계정
+- Payment: 지불
+- Payment: 지불
+- Post:
+- Present Price: 현재가
+- Price: 가격
+- Rebalance: 재결산
+- Reconcile: 마감
+- Register: 입력
+- Retained Earnings: 이익잉여금
+- Retained Losses: 결손금
+- Sales: 판매량
+- Saving: 예금
+- Scrub: ??
+- Security: 증권 ('상품의 단위’의 의미로 사용될 때는 ‘상품단위’)
+- Shares: 주식수
+- Split(동사): 나누기(거래의 경우), 분할(주식의 경우)
+- Split(명사): 부분거래
+- Stock: 주식
+- Subaccount: 하위계정
+- Tax Table: 세율표
+- Tax: 세금
+- Trading: 매매
+- Transaction: 거래
+- Value: 값 (때때로는 가치)
+- Vendor: 거래처
+- Voucher: 내역서
+- Withdraw: 출금
