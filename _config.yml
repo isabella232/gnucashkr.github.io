@@ -17,7 +17,7 @@ baseurl: ""
 title: GnucashKr
 
 # Short description of your site
-description: 오픈소스 가계부 프로그램 GnuCash(http://gnucash.org) 한글화
+description: GnuCash 한글화 프로젝트
 
 # --- Navigation bar options --- #
 
@@ -46,7 +46,7 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: 진헌규
+  name: 진헌규(Jin, Heonkyu)
   email: "heonkyu.jin@gmail.com"
   # facebook: yourname  # eg. daattali
   github: hkjinlee    # eg. daattali
