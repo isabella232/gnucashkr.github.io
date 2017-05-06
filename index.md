@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gnucash 한글화
-subtitle: 오픈소스 가계부 <a href="https://gnucash.org/">GnuCash</a>를 한글화해봅시다.
+subtitle: 오픈소스 가계부 GnuCash를 한글화합니다.
 use-site-title: true
 ---
 
@@ -23,6 +23,6 @@ use-site-title: true
 - 은행이나 신용카드 내역을 자동으로 불러올 수 없습니다.
   - 안드로이드 GnuCash에 SMS읽기 기능을 추가개발할 수는 있습니다.
 
-## 한글화 프로젝트
-
+## 개선의견: 아래로
+Github의 [Issues](https://github.com/GnucashKr/gnucashkr.github.io/issues) 기능을 이용해 주세요.
 </div>
