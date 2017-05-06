@@ -26,7 +26,7 @@ navbar-links:
   홈: ""
   문서:
     - GnuCash 주요 개념: "doc/concept"
-    - 번역 프로젝트: ""
+    - 번역 프로젝트 현황: "doc/translate"
   번역용어집:
     - 회계용어: "glossary/finance"
     - 일반용어: "glossary/general"

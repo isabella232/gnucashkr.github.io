@@ -25,4 +25,5 @@ use-site-title: true
 
 ## 개선의견: 아래로
 Github의 [Issues](https://github.com/GnucashKr/gnucashkr.github.io/issues) 기능을 이용해 주세요.
+
 </div>

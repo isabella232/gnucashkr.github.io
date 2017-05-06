@@ -21,8 +21,10 @@
 - Notes: 주석
 - Options: 옵션
 - Order: 정렬
+- Overview: 현황 (때때로 개요)
 - Placeholder: ??
 - Preferences: 환경설정
+- Quick-fill: 자동완성
 - Range: 범위
 - Reload: 다시읽기
 - Row: 행
