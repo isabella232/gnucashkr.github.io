@@ -8,6 +8,8 @@
 - Date: 날짜
 - Description: 상세
 - Detail: 세부정보
+- Entry: 항목
+- Expression: 수식
 - Fancy: 고급 (세부적으로 조정할 수 있는 옵션이 많다는 의미)
 - Field: 필드
 - File: 파일
@@ -31,7 +33,6 @@
 - Save: 저장(하기)
 - Source: 출처
 - Subtotal: 부분합계
-- Template: 서식
 - Template: 서식
 - Time period: 시한
 - Tot: 총

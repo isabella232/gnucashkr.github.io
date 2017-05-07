@@ -8,6 +8,8 @@
 - Active Account: 대변 (T계정에서의 왼쪽계정)
 - Ask: 매도가
 - Asset: 자산
+- Association: 첨부
+- Auto-clear: 자동확인처리
 - Balance Sheet: 재무상태표
 - Balance(동사): 결산
 - Balance(명사): 잔고
@@ -16,6 +18,7 @@
 - Billing term: 지급 조건
 - Book: 장부
 - Cash: 현금
+- Chart of Accounts: 계정도표
 - Check(동사): 점검
 - Check(명사): 수표
 - Checking: 자유입출금
@@ -31,6 +34,7 @@
 - Debit: 대변
 - Deposit: 입금
 - Discount Days: 할인적용기한
+- Document: 전표
 - Due Date: 만기일
 - Due Days: 기한
 - Employee: 종업원
@@ -49,13 +53,12 @@
 - Invoice: 청구서 (고객 > 나에게 지급될 돈의 명세)
 - Job: 묶음 (청구서나 영수증을 고객/거래처별로 묶는 작업)
 - Journal: 분개장
-- Journal: 분개장
-- Ledger: 원장
 - Ledger: 원장
 - Liability: 부채
 - Loan: 대출
 - Loss: 손실
 - Lot: 품목(?)
+- Map Account: 대응계정
 - Markup: 가산율
 - Merge: 병합
 - Mortgage: 융자
@@ -84,6 +87,7 @@
 - Retained Losses: 결손금
 - Sales: 판매량
 - Saving: 예금
+- Scheduled Transaction: 예약 거래
 - Scrub: 상쇄(?)
 - Security: 증권 ('상품의 단위’의 의미로 사용될 때는 ‘상품단위’)
 - Shares: 주식수
@@ -99,5 +103,6 @@
 - Trial Balance: 시산표
 - Value: 값 (때때로는 가치)
 - Vendor: 거래처
+- Void: 무효화
 - Voucher: 내역서
 - Withdraw: 출금
