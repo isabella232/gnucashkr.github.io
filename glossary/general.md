@@ -4,19 +4,28 @@
 
 - Closing: 닫기
 - Column: 열
+- Comment: 코멘트
 - Custom: 사용자정의
 - Date: 날짜
 - Description: 상세
 - Detail: 세부정보
 - Entry: 항목
+- Example: 예제
 - Expression: 수식
 - Fancy: 고급 (세부적으로 조정할 수 있는 옵션이 많다는 의미)
 - Field: 필드
 - File: 파일
+- Filter: 필터
 - Find: 찾기 (때때로 검색)
+- Font: 글꼴
+- Footer: 바닥글
 - Format: 형식
 - Geometry: 위치/크기
+- Header: 머리글
+- Heading: 제목
+- Height: 높이
 - Identification: 신원
+- List: 목록
 - Load: 읽기
 - Marker: 마커
 - Memo: 메모
@@ -24,12 +33,14 @@
 - Options: 옵션
 - Order: 정렬
 - Overview: 현황 (때때로 개요)
+- Pending: 보류중
 - Placeholder: ??
 - Preferences: 환경설정
 - Quick-fill: 자동완성
 - Range: 범위
 - Reload: 다시읽기
 - Row: 행
+- Sample: 샘플
 - Save: 저장(하기)
 - Source: 출처
 - Subtotal: 부분합계
@@ -39,3 +50,5 @@
 - Total: 전체합
 - Type: 유형
 - Unit: 단위
+- Update: 업데이트
+- Width: 너비
